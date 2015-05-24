@@ -1,0 +1,28 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "HomePage for garlun.net",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIGL06/Garlun.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "jade"
+  ],
+  "author": "Luis Ivan Garcia Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIGL06/Garlun/issues"
+  },
+  "homepage": "https://github.com/LIGL06/Garlun#readme"
+}
