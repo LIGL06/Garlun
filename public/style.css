@@ -181,12 +181,12 @@ opacity: 0.9;
 code {
 font-size: 18px;
 }
-.retraso-1{
--webkit-animation-delay:1s;
--moz-animation-delay:1s;
-animation-delay: 1s;
+.retraso-4{
+-webkit-animation-delay:4s;
+-moz-animation-delay:4s;
+animation-delay: 4s;
 }
-.retraso-1{
+.retraso-2{
 -webkit-animation-delay:2s;
 -moz-animation-delay:2s;
 animation-delay: 2s;
