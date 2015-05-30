@@ -1,7 +1,7 @@
 var express = require('express');
 
 var app = express();
-var port = Number(process.env.PORT || 8080);
+var port = Number(process.env.PORT || 3000);
 
 app.set("view engine", "jade");
 
